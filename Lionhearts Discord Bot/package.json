@@ -1,0 +1,17 @@
+{
+    "contributors": [
+        "Travis Munger (Travington) <travis.munger@hotmail.com>",
+        "Henri Malahieude (hephaestus1233) <henrimalahieude@gmail.com>"
+    ],
+    "displayName": "TTC Reforged Discord Bot",
+    "description": "A discord bot for interacting with the TTC database (and game)",
+    "main": "main",
+    "scripts": {
+        "start": "node main"
+    },
+    "dependencies": {
+        "discord.js": "^12.5.1",
+        "dotenv": "^8.2.0",
+        "mysql": "^2.18.1"
+    }
+}
