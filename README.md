@@ -1,6 +1,4 @@
 # Lionhearts-Discord-Bot
-This is a discord bot I designed for Credenzio Studios to interface with their database and their game as well.
-
 This is the stable build version from January of 2021 I designed alone, however since then there have been additions to the source code by other developers at Credenzio Studios.
 
 ![Capture](https://user-images.githubusercontent.com/71425015/135734108-44fb26e5-8931-43e4-853f-d0a55d9d9b19.PNG)
